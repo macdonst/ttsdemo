@@ -1,0 +1,13 @@
+2014-09-25 21:37:27.177 TtsDemo[44711:70b] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-25 21:37:27.179 TtsDemo[44711:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-25 21:37:27.213 TtsDemo[44711:70b] Unlimited access to network resources
+2014-09-25 21:37:27.219 TtsDemo[44711:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-25 21:37:28.175 TtsDemo[44711:70b] Resetting plugins due to page load.
+2014-09-25 21:37:28.337 TtsDemo[44711:70b] Finished load of: file:///Users/simonmacdonald/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/50EC6FB3-576F-423C-B7B2-CFEB2AECA3C2/TtsDemo.app/www/index.html
+Terminating in response to SpringBoard's termination.

@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "org.apache.cordova.speech.speechsynthesis": {
+            "PACKAGE_NAME": "com.simonmacdonald.ttsdemo"
+        }
+    },
+    "dependent_plugins": {}
+}
